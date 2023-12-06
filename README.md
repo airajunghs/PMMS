@@ -9,3 +9,5 @@ Manage sales report is admin can view the overall report in PMMS such the amount
 This project are mainly Laravel framework, PHP and HTML and the collaboration in a group project. Each module has different people develop it and i involve in Manage Schedule as my individual part. This collaborative project taught us how industry work for the whole system.
 
 The actors involve are admin and cashier. Admin have manage user profile, inventory, schedule and sales report function while cashier only for payment function. 
+
+Overall system are documented in Software Requirementment Software (SRS), Software Development Design (SDD), Software Testing Report (STR) and Software Testing Design (STD). 
